@@ -1,0 +1,25 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "cheerio": "^1.0.0-rc.2",
+    "config": "^1.28.1",
+    "kue": "^0.11.6",
+    "mysql2": "^1.5.1",
+    "nodemon": "^1.11.0",
+    "redis": "^2.8.0",
+    "sequelize": "^4.22.8",
+    "sqlite3": "^3.1.13",
+    "yargs": "^10.0.3"
+  }
+}
